@@ -1,3 +1,7 @@
+  //////////////////////////////////////////////////
+ //////////device check (pc or mobile)/////////////
+//////////////////////////////////////////////////
+
 let theme = document.getElementsByTagName('link')[0];
 
 if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
